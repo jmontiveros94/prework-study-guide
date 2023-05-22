@@ -18,3 +18,4 @@ function listTopics() {
     console.log('Please try again!');
     }
    }
+   listTopics()
